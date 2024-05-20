@@ -1,4 +1,0 @@
-Please refer to the following study for the untargeted metabolomics data for succinate fermentation:
-
-Cortada-Garcia J, Haggarty J, Moses T, Daly R, Arnold SA, Burgess K. 2022. On-line untargeted metabolomics monitoring of an Escherichia coli succinate fermentation process. Biotechnol Bioeng 119:2757-2769.
-https://onlinelibrary.wiley.com/doi/10.1002/bit.28173
