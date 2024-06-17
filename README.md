@@ -21,12 +21,6 @@ pandas>=1.5.2
 pypots==0.5
 ```
 
-## ❖ Installation Guide
-Download `btstn-v1.0.tar.gz` and execute the following command
-```
-$ pip install btstn-v1.0.tar.gz
-```
-
 ## ❖ Data Format
 |*Batch*|*Time* |*Parameter 1*|*Parameter 2*|...|
 |:-:    |:-:    |:-:          |:-:          |:-:|
