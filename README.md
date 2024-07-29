@@ -85,7 +85,7 @@ tcnits = BTSTN(
 ## ❖ Train Your Model
 ```python
 # fit the model
-train_loss = tcnits.fit(data=train_dr)
+train_loss = tcnits.fit(data=data)
 ```
 
 ## ❖ Application
